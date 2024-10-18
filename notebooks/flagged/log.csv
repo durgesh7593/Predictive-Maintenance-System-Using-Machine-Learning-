@@ -1,0 +1,2 @@
+Air temperature,Process temperature,Rotational speed,Torque,Tool wear,Type,Result,Action,flag,username,timestamp
+298,309,2861,4.6,143,L,"{""label"": ""No failure"", ""confidences"": [{""label"": ""No failure"", ""confidence"": 0.9996966019417476}, {""label"": ""Machine failure"", ""confidence"": 0.00030339805825242716}]}",No action required,,,2024-09-13 11:47:11.642779
